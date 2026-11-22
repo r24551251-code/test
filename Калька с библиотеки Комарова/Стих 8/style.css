@@ -1,0 +1,14 @@
+html {
+    background-color: #F3F0E7;
+}
+
+.poem {
+    width:fit-content;
+    margin: 0 auto;
+    text-align: left;
+}
+
+h1 {
+    font-style: italic;
+    color: rgb(48, 48, 76);
+}
